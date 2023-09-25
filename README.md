@@ -8,7 +8,7 @@ Use `python jpwd.py` in the jpwd dir to generate credentials.
 <br>
 
 Change to the new directory and do:       
-`podman-compose build`
+`podman-compose build`            
 Wait for the image to finish.
 
 <br>
