@@ -1,0 +1,16 @@
+jupyter
+jupyter-book
+jupyterlab
+jupyter-archive
+matplotlib
+numpy
+ipywidgets
+scipy
+sympy
+pillow
+pandas
+scikit-image
+seaborn
+scikit-learn
+requests
+pycaret

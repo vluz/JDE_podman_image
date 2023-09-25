@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  jupyter:
+    container_name: jupyter
+    restart: always
+    build: .
+    networks:
+      - jupyter_network
+    ports:
+      - "8888:8888"
+networks:
+  jupyter_network:
+    driver: bridge

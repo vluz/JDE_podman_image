@@ -1,0 +1,5 @@
+{
+  "IdentityProvider": {
+    "hashed_password": "PUT_PASSWORD_HASH_HERE"
+  }
+}
